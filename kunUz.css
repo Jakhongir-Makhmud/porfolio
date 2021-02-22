@@ -1,0 +1,66 @@
+.right-side-bar {
+position: absolute;
+right: 20px;
+top: 70px;
+width: 22%;
+}
+.nav-link {
+  font-weight: bold;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.round {
+  background-color: blue;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  display: inline;
+  position: relative;
+  top: 20px;
+  left: 10px;
+}
+.round-in-round {
+  background-color: blue;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  display: inline;
+}
+.Huawei-img {
+  width: 600px;
+  margin: 0 50px;
+  margin-bottom: 40px;
+}
+.row-in-row {
+  background-color: #dbf6e9;
+}
+.tech-news {
+  margin-left: 50px;
+  margin-top: px;
+}
+.Huawei-uygur {
+  margin-top: 50px;
+}
+.btn-lg {
+  width: 200px;
+  position: relative;
+  left: 50px;
+}
+.news-img {
+  width: 180px;
+  height: 120px;
+}
+.alot-img {
+  width: 320px;
+  height: 200px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.last-news {
+  position: relative;
+  left: 35px;
+}
